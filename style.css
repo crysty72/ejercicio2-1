@@ -1,0 +1,11 @@
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image: url(https://images.unsplash.com/photo-1494500764479-0c8f2919a3d8?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Zm9uZG9zJTIwZGUlMjBwYW50YWxsYSUyMGRlJTIwYWx0YSUyMGRlZmluaWNpJUMzJUIzbiUyMGNvbXBsZXRhfGVufDB8fDB8fHww);
+    background-repeat: initial;
+    background-size: cover;
+}
+.container {
+    margin: 20px;
+}
